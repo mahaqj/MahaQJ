@@ -2,7 +2,6 @@
 
 ```cpp
 #include <string>
-#include <iostream>
 
 int main() {
     std::string pronouns[2] = {"she", "her"};
