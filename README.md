@@ -3,6 +3,6 @@
 ```javascript
 const maha = {
     pronouns: ["she", "her"],
-    languages: ["c++", "c#", "c"],
+    languages: ["c++", "c#", "c", "sql"],
     university: ["fast nuces"]
 }
