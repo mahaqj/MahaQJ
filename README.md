@@ -8,4 +8,5 @@ int main() {
     std::string university = "fast nuces";
     std::string major = "computer science";
     std::string specialisation = "robotics & automation";
+    return 0;
 }
