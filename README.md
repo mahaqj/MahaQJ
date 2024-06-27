@@ -1,18 +1,11 @@
-# Hi, I'm Maha!
+# Hi, I'm Maha! ✨
 
 ```cpp
-#include <iostream>
-#include <vector>
 #include <string>
-
-struct Maha {
-    std::string pronouns[2] = {"she", "her"};
-    std::vector<std::string> languages = {"c++", "c#", "c"};
-    std::string university = "fast nuces";
-};
+#include <iostream>
 
 int main() {
-    Maha maha;
-    std::cout << "Hi, I'm Maha!" << std::endl;
-    return 0;
+    std::string pronouns[2] = {"she", "her"};
+    std::string languages[4] = {"c++", "c#", "c", "sql"};
+    std::string university = "National University of Computer and Emerging Sciences";
 }
