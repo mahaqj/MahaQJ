@@ -1,6 +1,12 @@
-## Hi there 👋
+const maha = {
+  pronouns: ["she", "her"],
+  languages: ["c++", "c#", "c"],
+  university: ["fast nuces"]
+}
 
 <!--
+## Hi there 👋
+
 **MahaQJ/MahaQJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
