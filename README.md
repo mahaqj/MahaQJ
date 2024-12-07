@@ -4,7 +4,7 @@
 #include <string>
 
 int main() {
-    std::string languages[] = {"c++", "c#", "c", "python", "java", "sql"};
+    std::string languages[] = {"c/c++", "python", "java", "sql"};
     std::string university = "fast nuces";
     std::string major = "computer science";
     return 0;
